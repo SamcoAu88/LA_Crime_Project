@@ -1,5 +1,7 @@
 # LA Crime Data Analysis (2020 - December 2023)
 
+![CRIME](images/crime.jpg)
+
 This project analyzes a dataset of reported crime incidents in Los Angeles spanning from 2020 to December 2023. The dataset, containing 851,405 entries and 27 columns, provides a comprehensive view of crime within the city. The goal of this exploratory data analysis is to identify key trends, patterns, and insights related to crime occurrence, victim demographics, location, and reporting.
 
 ## Summary and Key Findings
