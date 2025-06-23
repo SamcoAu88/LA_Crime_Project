@@ -1,4 +1,4 @@
-# LA Crime Data Analysis (2020 - December 2023)
+#  🕵🏻 🚔 🚨 👮🏻  LA Crime Data Analysis (2020 - December 2023)
 
 ![CRIME](images/crime.jpg)
 
